@@ -1,6 +1,8 @@
 # Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio.
+Hi, I'm Oksana Martinez.
+
+Aspiring Data Analyst with a focus on SQL, Python, Power BI and business intelligence.
 
 This repository contains projects focused on:
 
